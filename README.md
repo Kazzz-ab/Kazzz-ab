@@ -8,7 +8,7 @@ Full-stack engineer focused on production-grade web apps with Next.js, TypeScrip
 
 ### Stack
 
-**Frontend** — Next.js · TypeScript · Tailwind CSS · shadcn/ui  
+**Frontend** — Next.js · TypeScript · Tailwind CSS · Shadcn/ui  
 **Backend** — Node.js · REST APIs · Server Actions · Vercel Edge Functions  
 **AI / ML** — Claude API · Gemini · MongoDB Atlas Vector Search · Voyage embeddings  
 **Data** — MongoDB · PostgreSQL
