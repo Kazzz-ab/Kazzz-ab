@@ -1,5 +1,5 @@
 # 💫 About Me:
- Kazi Abrarul Haque<br><br>Full-stack engineer focused on production-grade web apps with Next.js, TypeScript, and AI integrations.<br><br>Currently building: RAG pipelines and headless e-commerce systems for businesses.<br>
+ Kazi Abrarul Haque<br><br>Full-stack engineer focused on production-grade web apps with Next.js, TypeScript, and AI integrations.<br><br>Currently building: RAG pipelines and headless e-commerce systems for businesses.<br><br>Latest upgrades: CounselFlow and ClinicFlow now feature hardened security — anti-phishing, DDoS rate limiting, input sanitization, honeypot spam prevention, and duplicate submission blocking.<br>
 
 
 ## 🌐 Socials:
@@ -28,6 +28,8 @@
 | [FinSight](https://github.com/Kazzz-ab/FinSight) | RAG assistant for public-company financial filings — grounded answers with citations | [finsight-orcin.vercel.app](https://finsight-orcin.vercel.app) |
 | [HaqueMart](https://github.com/Kazzz-ab/HaqueMart) | Headless WooCommerce storefront — Next.js 16, Tailwind v4, shadcn/ui | [haquemart.vercel.app](https://haquemart.vercel.app) |
 | [Meridian](https://github.com/Kazzz-ab/Meridian) | AI lead-qualification service — Gemini, serverless edge functions, Webflow integration | [meridian-consult-service.vercel.app](https://meridian-consult-service.vercel.app) |
+| [CounselFlow](https://github.com/Kazzz-ab/CounselFlow) | Full-stack legal case management — Express + React, JWT auth, PDF billing, role-based access. Security hardened: anti-DDoS, anti-phishing, anti-spam middleware | — |
+| [ClinicFlow](https://github.com/Kazzz-ab/ClinicFlow) | Full-stack clinic management system — Express + React, HIPAA-aware, appointment scheduling, analytics. Security hardened: anti-DDoS, anti-phishing, anti-spam middleware | — |
 
 ---
 
