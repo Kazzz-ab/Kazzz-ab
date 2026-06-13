@@ -12,24 +12,6 @@ Express, TypeScript, PostgreSQL, React — and AI systems that actually ground t
 
 ---
 
-### ai / ml
-
-| project | what it is | status |
-| --- | --- | --- |
-| [FinSight](https://github.com/Kazzz-ab/FinSight) | RAG over public company filings — ask grounded questions, get cited answers from 10-Ks and 10-Qs, or an honest refusal. | [live ↗](https://finsight-orcin.vercel.app) |
-| Argus | Autonomous company research agent that turns a company name into a cited brief — streaming every step of its work live. | in flight |
-
-### business systems
-
-| project | what it is | status |
-| --- | --- | --- |
-| [Clinio](https://github.com/Kazzz-ab/clinio) | Practice management for small clinics — patient records, doctor scheduling, invoicing, and analytics with role-scoped workflows. | [live ↗](https://clinio-health.vercel.app) |
-| [Lexa](https://github.com/Kazzz-ab/lexa) | Matter management for small law firms — client intake, case lifecycle tracking, and billing that matches how legal work is actually engaged. | [live ↗](https://lexa-suite.vercel.app) |
-| [HaqueMart](https://github.com/Kazzz-ab/HaqueMart) | Headless WooCommerce storefront for the Bangladeshi SME market — built around a pluggable payment adapter, because here bKash comes before Stripe. | [live ↗](https://haquemart.vercel.app) |
-| [Meridian](https://github.com/Kazzz-ab/Meridian) | Webflow template for professional service firms with an AI-powered consultation form backed by a serverless function. | [live ↗](https://meridian-consult-service.vercel.app) |
-
----
-
 ### how I work
 
 **Mastery before frameworks.** I spend more time understanding why a tool is built the way it is than learning its API surface. When I pick one, I can explain the three it was competing against and why those lost.
@@ -51,6 +33,32 @@ Express, TypeScript, PostgreSQL, React — and AI systems that actually ground t
 Building **Argus** — an autonomous research agent that streams its entire working process live, because an agent you can't watch is an agent you can't trust.
 
 **Available for remote work from mid-2026** — AI integration, full-stack product builds, architecture-led engagements. Particularly interested in problems *below* the model: retrieval design, structured output contracts, multi-tenant systems with real isolation requirements.
+
+---
+
+### the work
+
+#### ai / ml
+
+| project | what it is | status |
+| --- | --- | --- |
+| [FinSight](https://github.com/Kazzz-ab/FinSight) | RAG over public company filings — ask grounded questions, get cited answers from 10-Ks and 10-Qs, or an honest refusal. | [live ↗](https://finsight-orcin.vercel.app) |
+| Argus | Autonomous company research agent that turns a company name into a cited brief — streaming every step of its work live. | in flight |
+
+#### business systems
+
+| project | what it is | status |
+| --- | --- | --- |
+| [Clinio](https://github.com/Kazzz-ab/clinio) | Practice management for small clinics — patient records, doctor scheduling, invoicing, and analytics with role-scoped workflows. | [live ↗](https://clinio-health.vercel.app) |
+| [Lexa](https://github.com/Kazzz-ab/lexa) | Matter management for small law firms — client intake, case lifecycle tracking, and billing that matches how legal work is actually engaged. | [live ↗](https://lexa-suite.vercel.app) |
+| [HaqueMart](https://github.com/Kazzz-ab/HaqueMart) | Headless WooCommerce storefront for the Bangladeshi SME market — built around a pluggable payment adapter, because here bKash comes before Stripe. | [live ↗](https://haquemart.vercel.app) |
+| [Meridian](https://github.com/Kazzz-ab/Meridian) | Webflow template for professional service firms with an AI-powered consultation form backed by a serverless function. | [live ↗](https://meridian-consult-service.vercel.app) |
+
+---
+
+### activity
+
+![Kazi's GitHub stats](https://github-readme-stats.shion.dev/api?username=Kazzz-ab&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=4&border_color=1F1F22&bg_color=0A0A0B&title_color=6B8EAE&text_color=B5B5AC&icon_color=B89968)
 
 ---
 
