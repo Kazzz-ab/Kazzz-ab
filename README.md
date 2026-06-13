@@ -52,7 +52,7 @@ Building **Argus** — an autonomous research agent that streams its entire work
 | [Clinio](https://github.com/Kazzz-ab/clinio) | Practice management for small clinics — patient records, doctor scheduling, invoicing, and analytics with role-scoped workflows. | [live ↗](https://clinio-health.vercel.app) |
 | [Lexa](https://github.com/Kazzz-ab/lexa) | Matter management for small law firms — client intake, case lifecycle tracking, and billing that matches how legal work is actually engaged. | [live ↗](https://lexa-suite.vercel.app) |
 | [HaqueMart](https://github.com/Kazzz-ab/HaqueMart) | Headless WooCommerce storefront for the Bangladeshi SME market — built around a pluggable payment adapter, because here bKash comes before Stripe. | [live ↗](https://haquemart.vercel.app) |
-| [Meridian](https://github.com/Kazzz-ab/Meridian) | Webflow template for professional service firms with an AI-powered consultation form backed by a serverless function. | [live ↗](https://meridian-consult-service.vercel.app) |
+| [Meridian](https://github.com/Kazzz-ab/Meridian) | Hand-coded, white-label landing page for service businesses with an instant AI intake — one config file reskins the entire site to any industry. | [live ↗](https://meridian-consult-service.vercel.app) |
 
 ---
 
