@@ -1,69 +1,46 @@
-`— full-stack engineer · dhaka, bd —`
+# Hi, I'm Kazi Abrar Ul Haque 👋
 
-# Kazi Abrarul Haque
+### AI-native full-stack engineer — I build fast, polished Next.js web apps with AI baked in.
 
-**Building full-stack business solutions at the crossroads of software and AI.**
+I ship production-grade products end to end: a React/Next.js front-end with a designer's eye for motion and detail, a typed Node/Prisma (or serverless) back-end, and an AI layer — RAG, LLM features, agents — when it earns its place. Currently open to freelance and contract work building AI-native web applications.
 
-I'm in my final year of CSE at North South University, Dhaka. I started building production systems before the coursework caught up — and kept going from there. What I build has to work for real operators in real conditions — not demos, not prototypes dressed as products.
-
-Express, TypeScript, PostgreSQL, React — and AI systems that actually ground their claims.
-
-**Full case studies → [kazzz-portfolio.vercel.app](https://kazzz-portfolio.vercel.app)**
+🌐 [kazzz.dev](https://kazzz.dev) · 📫 kaziabrarulh@gmail.com
 
 ---
 
-### how I work
+### 🧰 Stack
 
-**Mastery before frameworks.** I spend more time understanding why a tool is built the way it is than learning its API surface. When I pick one, I can explain the three it was competing against and why those lost.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-**Architecture first, then code.** The most expensive bugs are built into the data model. I start every system by drawing the boundaries — what's a service, what's a record, what's a side-effect. The first commit is usually the schema.
-
-**Honest about the gaps.** Every project here has a "doesn't yet" list. Knowing what's missing and why is more useful than pretending everything is finished.
-
-### stack
-
-- **Languages** — TypeScript (strict mode), JavaScript (ES2024), SQL, HTML / CSS
-- **Backend & data** — Express, Prisma, PostgreSQL, MongoDB Atlas (+ Vector Search), Node.js
-- **Frontend** — React 19, Next.js 16, Tailwind v4, Three.js, GSAP
-- **AI / ML** — Claude API, Gemini API, Voyage embeddings, RAG pipelines: chunking → retrieval → reranking → eval
-- **Systems** — Vercel, Webflow, JWT / RBAC, Git & GitHub Actions
-
-### currently
-
-Building **Argus** — an autonomous research agent that streams its entire working process live, because an agent you can't watch is an agent you can't trust.
-
-**Available for remote work from mid-2026** — AI integration, full-stack product builds, architecture-led engagements. Particularly interested in problems *below* the model: retrieval design, structured output contracts, multi-tenant systems with real isolation requirements.
+- **Web & product** — Next.js · React · TypeScript · Tailwind CSS · Node.js · Express · Prisma · PostgreSQL · MongoDB
+- **AI layer** — Claude API · Gemini · RAG · Atlas Vector Search · embeddings · agents
+- **Creative / 3D** — Three.js · React Three Fiber · GSAP
+- **Ship** — Vercel · serverless · CI
 
 ---
 
-### the work
+### 🚀 Featured work
 
-#### ai / ml
-
-| project | what it is | status |
-| --- | --- | --- |
-| [FinSight](https://github.com/Kazzz-ab/FinSight) | RAG over public company filings — ask grounded questions, get cited answers from 10-Ks and 10-Qs, or an honest refusal. | [live ↗](https://finsight-orcin.vercel.app) |
-| Argus | Autonomous company research agent that turns a company name into a cited brief — streaming every step of its work live. | in flight |
-
-#### business systems
-
-| project | what it is | status |
-| --- | --- | --- |
-| [Clinio](https://github.com/Kazzz-ab/clinio) | Practice management for small clinics — patient records, doctor scheduling, invoicing, and analytics with role-scoped workflows. | [live ↗](https://clinio-health.vercel.app) |
-| [Lexa](https://github.com/Kazzz-ab/lexa) | Matter management for small law firms — client intake, case lifecycle tracking, and billing that matches how legal work is actually engaged. | [live ↗](https://lexa-suite.vercel.app) |
-| [HaqueMart](https://github.com/Kazzz-ab/HaqueMart) | Headless WooCommerce storefront for the Bangladeshi SME market — built around a pluggable payment adapter, because here bKash comes before Stripe. | [live ↗](https://haquemart.vercel.app) |
-| [Meridian](https://github.com/Kazzz-ab/Meridian) | Hand-coded, white-label landing page for service businesses with an instant AI intake — one config file reskins the entire site to any industry. | [live ↗](https://meridian-consult-service.vercel.app) |
+| Project | What it does | Stack |
+|---|---|---|
+| **[FinSight](https://github.com/Kazzz-ab/FinSight)** ⭐ | RAG over public-company filings — cited answers from 10-Ks/10-Qs, or an honest "not in the filing" | Next.js · Claude · Atlas Vector Search · Voyage embeddings |
+| **[Meridian](https://github.com/Kazzz-ab/Meridian)** | Instant-reply lead engine — answers every enquiry in seconds, reskins to any service business from one config | Next.js · Serverless · Gemini |
+| **[Haque Mart](https://github.com/Kazzz-ab/HaqueMart)** | Premium headless storefront — multi-currency, multi-language (RTL), built to earn a stranger's first order · [live demo](https://haquemart.vercel.app) | Next.js · TS · WooCommerce · WPGraphQL |
+| **[Clinio](https://github.com/Kazzz-ab/clinio)** | Practice management for clinics — records, scheduling, billing, analytics | Express · Prisma · PostgreSQL · React |
+| **[Lexa](https://github.com/Kazzz-ab/lexa)** | Matter management for law firms — intake, case lifecycle, legal billing | React · Express · Prisma · PostgreSQL |
 
 ---
 
-### activity
+### 📈 Currently
+Building AI-native web apps for founders and teams. Open to freelance, contract, and collaboration — the fastest path to a great result is a short call: **kaziabrarulh@gmail.com**.
 
-![Kazi's GitHub stats](https://github-readme-stats.shion.dev/api?username=Kazzz-ab&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=4&border_color=1F1F22&bg_color=0A0A0B&title_color=6B8EAE&text_color=B5B5AC&icon_color=B89968)
-
----
-
-The best way to reach me is an email with a brief — what it is, what the constraint is, what you need. I respond to every serious inquiry within 24 hours.
-
-[email](mailto:kaziabrarulh@gmail.com) · [linkedin](https://www.linkedin.com/in/kazi-abrarul-haque05/) · [x](https://x.com/kazzz_ab) · [portfolio](https://kazzz-portfolio.vercel.app)
-
-`© 2026 kazi abrarul haque · dhaka, bd`
+![Kazzz-ab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kazzz-ab&show_icons=true&hide_border=true&include_all_commits=true)
